@@ -2,8 +2,23 @@
 	height:100%;
 	width:100%;
 }
-.intro-text{
+header{	
+	width: 100%;
+	height: 100%;
+	background-color:#36E4E4;
+	display: table;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 	text-align:center;
-	padding-top:100px;
+}
+.intro-text{
+	padding-top:300px;
 	padding-bottom:50px;
+}
+.jasenet-section{
+	background-color:#36E4E4;
+	padding:30px;
 }
